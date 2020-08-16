@@ -1,6 +1,6 @@
 # BootDo 面向学习型的开源框架
 
-## 平台简介
+## 平台简介(fxf)
 
 一群[]<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5ojKYFG"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="BootDo交流群" title="BootDo交流群"></a>
 二群<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=54UlM7d"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="BootDo交流群" title="BootDo交流群"></a>
